@@ -9,7 +9,7 @@ emergency response, and social welfare data across **8 Lagos State agencies (201
 ## 📊 Dashboard Pages
 
 ### 1. Crime Statistics — LSNSA
-![Crime Statistics](Screenshot%202026-02-03%20062133.png)
+![Crime Statistics](Screenshot%202026-02-03%20081210.png)
 
 ### 2. Fire Service — Lagos Fire & Rescue
 ![Fire Service](Screenshot%202026-02-03%20062223.png)
