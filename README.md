@@ -3,8 +3,7 @@
 A comprehensive Power BI dashboard consolidating public safety, justice, 
 emergency response, and social welfare data across **8 Lagos State agencies (2019–2025)**.
 
-> 🔗 Live interactive dashboard: *Coming soon*
-
+>  🔗 [View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjBiMDI0ZWYtZTg5OC00ZWEzLWIyNTUtNjYxYmRiMjNjODZjIiwidCI6Ijk0ZmM2MWQyLWE3YmMtNDJhNi04YmI2LTlhODEzNDNhYzY3MCJ9)
 ---
 
 ## 📊 Dashboard Pages
