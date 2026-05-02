@@ -3,7 +3,8 @@
 A comprehensive Power BI dashboard consolidating recreation, culture, 
 pilgrimage, and sports data across **5 Lagos State agencies (2019–2025)**.
 
----
+> 🔗 [View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjkwNGI2YmYtNjI5MC00OTM5LTkxMTQtNWJiM2Q4MDZjNDhjIiwidCI6Ijk0ZmM2MWQyLWE3YmMtNDJhNi04YmI2LTlhODEzNDNhYzY3MCJ9)
+
 
 ## 📊 Dashboard Pages
 
